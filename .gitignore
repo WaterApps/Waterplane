@@ -1,0 +1,6 @@
+node_modules
+dist/*
+!dist/index.html
+*.swp
+/OadaServerSetup/2015/
+*.DS_Store
